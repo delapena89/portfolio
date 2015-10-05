@@ -35,7 +35,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
   line-height: 1;
-  background-color: #eaeaea;
+  background-color: firebrick;
 }
 ol, ul {
   list-style: none;
@@ -299,5 +299,9 @@ footer {
 
   .portfolio-work h3 {
     font-size: 1em;
+  }
+
+  .whitetext {
+    color: white;
   }
 }
