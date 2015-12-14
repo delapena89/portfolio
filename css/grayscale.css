@@ -4,6 +4,10 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ .border {
+    border: 1px solid white;
+ }
+
 .smile {
     color:yellow;
     font-size: 1.5em;
